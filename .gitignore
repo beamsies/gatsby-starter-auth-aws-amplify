@@ -1,0 +1,20 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
+
+# misc
+z-archive/*
+.vscode/
+
+#amplify
+amplify/*
+build/
+dist/
+node_modules/
+aws-exports.js
+awsconfiguration.json
